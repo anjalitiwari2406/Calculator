@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container { 
+    background-color: #06142E;
+    color: #BD838B;
+    height: auto;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.text-center mt-3 {
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+.card{ 
+    background-color: #473E66;
+}
